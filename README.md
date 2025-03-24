@@ -4,31 +4,31 @@ Built a dynamic Power BI dashboard to analyze e-commerce sales performance, focu
 
 # Key Features
 
-## Data Preparation:
+### Data Preparation:
 Cleaned and formatted raw data in Excel for consistency and accuracy.
 Standardized customer and transaction data to ensure reliable analysis.
 
-## Revenue & Profit Overview:
+### Revenue & Profit Overview:
 Total revenue of ₹438K and profit of ₹37K visualized for quick insights.
 
-## Category Performance:
+### Category Performance:
 Clothing led sales with 63% of the quantity, followed by Electronics (21%) and Furniture (17%).
 
-## Regional Analysis:
+### Regional Analysis:
 Maharashtra was the top-performing state in revenue contribution.
 
-## Customer Insights:
+### Customer Insights:
 Harivansh was the most valuable customer, contributing the highest revenue.
 
-## Payment Trends:
+### Payment Trends:
 COD accounted for 44% of transactions, followed by UPI at 21%.
 
-## Monthly Analysis:
+### Monthly Analysis:
 December stood out as the most profitable month with the highest revenue spike.
 
 # Tools and Technologies
-## Excel: Data cleaning and preparation.
-## Power BI: Data visualization and advanced calculations using DAX measures.
+### Excel: Data cleaning and preparation.
+### Power BI: Data visualization and advanced calculations using DAX measures.
 
 # Key Outcomes
 Efficiency Improvement: Reduced sales tracking and analysis time by 75%.
